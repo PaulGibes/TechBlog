@@ -22,6 +22,8 @@ If testing on your local machine, be sure to create the tables by running the co
 
 Navigate to the sign up page and create and account. Then create a blog post or two to be able to view, update and delete them.
 
+View the deployed app: https://techblogwithauniquename.herokuapp.com/
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
